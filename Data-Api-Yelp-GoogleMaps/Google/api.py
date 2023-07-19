@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime
 from google.cloud import storage
 
-API_KEY = "AIzaSyBydwb3V78WSLBXctGBHSoaWyIeHfV6PjA"
+API_KEY = "API KEY HERE"
 
 states = ["California", "Florida", "New York", "Nevada", "Hawaii"]
 
