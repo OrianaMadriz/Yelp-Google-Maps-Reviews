@@ -4,7 +4,7 @@ import pandas as pd
 from google.cloud import storage
 
 # Define API Key, Search Type, and header
-MY_API_KEY = 'FBiwlzgIGYRKWQMBbhOlVI7dmjv6mGKzcOLNERFe31wajHlxS1-NauL_dbzrpq040MWv_ExzqA4XNvbSO-Tcy2zYrA8XJn2khIzGk-BE5IFDodqPGstWcWJFOg11ZHYx'
+MY_API_KEY = 'API KEY HERE'
 BUSINESS_PATH = 'https://api.yelp.com/v3/businesses/search'
 HEADERS = {'Authorization': 'bearer %s' % MY_API_KEY}
 
